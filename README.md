@@ -72,6 +72,7 @@ Sample AI Output (Structured JSON)
   "recommended_next_step": "Urgent clinical correlation and initiation of empiric antibiotic therapy.",
   
   "confidence_score": 98
+  
 }
 In the UI, this output renders as a red, high-priority alert card, instantly notifying staff that this document requires immediate action.
 
