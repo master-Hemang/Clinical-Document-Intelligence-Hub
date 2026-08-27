@@ -28,7 +28,6 @@ Open app.py in your code editor and ensure your API key is placed on Line 10:
 
 Python
 API_KEY = "YOUR_API_KEY_HERE"
-(Note: For this 1-day rapid prototype, the API key is hardcoded. In a production environment, this would be managed via Streamlit Secrets or environment variables).
 
 Run the application:
 
