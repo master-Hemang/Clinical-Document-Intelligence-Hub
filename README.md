@@ -74,6 +74,8 @@ Sample AI Output (Structured JSON)
   "confidence_score": 98
   
 }
+
+
 In the UI, this output renders as a red, high-priority alert card, instantly notifying staff that this document requires immediate action.
 
 ### Installation Steps
