@@ -1,0 +1,19 @@
+DISCHARGE SUMMARY
+Patient Name: Maria Garcia 
+DOB: 08/14/1972
+Admission Date: October 9, 2026
+Discharge Date: October 12, 2026
+
+Admitting Diagnosis: Acute Asthma Exacerbation
+Discharge Diagnosis: Resolving Asthma Exacerbation
+
+Hospital Course: 
+Patient presented to the ED with severe wheezing, shortness of breath, and an SpO2 of 88%. She was admitted and immediately started on continuous albuterol nebulizers and IV methylprednisolone. Over the course of 48 hours, her respiratory status improved significantly. SpO2 stabilized at 97% on room air. Transitioned to oral prednisone on day 3.
+
+Discharge Medications:
+1. Prednisone 40mg daily for 5 days.
+2. Albuterol HFA Inhaler - 2 puffs every 4 hours as needed for wheezing.
+3. Fluticasone propionate (Flovent) - 2 puffs twice daily (Restart home dose).
+
+Follow-Up / Next Steps:
+Patient is stable for discharge. She must follow up with her primary care provider or pulmonologist within 3-5 days. Advised to return to the ER immediately if she experiences respiratory distress, cyanosis, or if the rescue inhaler fails to provide relief.

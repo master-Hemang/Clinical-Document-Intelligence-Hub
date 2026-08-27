@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Patient Name: John Doe (DOB: 05/12/1965)
+Date of Admission: Aug 24, 2026
+Date of Discharge: Aug 26, 2026
+
+Chief Complaint: Shortness of breath, chest tightness, mild dizziness.
+History: Type 2 Diabetes, Hypertension.
+
+Hospital Course: Patient admitted via ER. EKG showed sinus tachycardia but no acute ischemic changes. Blood pressure on admission was 165/95. Troponin levels were negative. Administered IV fluids and adjusted lisinopril dosage from 10mg to 20mg daily. Patient stabilized over 48 hours. 
+
+Discharge Instructions: 
+- Continue Lisinopril 20mg daily.
+- Check BP daily.
+- Follow up with primary care physician in 1 week. Return to ER if chest pain returns.

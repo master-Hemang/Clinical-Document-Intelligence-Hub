@@ -1,0 +1,21 @@
+OUTPATIENT CLINIC - PROGRESS NOTE
+Date: October 12, 2026
+Patient: Marcus Johnson (Age 34)
+Attending: Dr. S. Patel
+
+Subjective: 
+Marcus returns to the clinic for a follow-up on his mild lower back pain that started two weeks ago after lifting a heavy box while moving. He states the pain has decreased from a 6/10 to a 2/10. He has been doing the prescribed stretching exercises and applying heat. Denies any numbness, tingling, or weakness in his legs. Denies bowel or bladder incontinence.
+
+Objective:
+- Ambulate with a normal gait. 
+- Spine: No point tenderness over the vertebrae. Mild tightness in the right lumbar paraspinal muscles. 
+- Neuro: Normal reflexes at patella and achilles bilaterally. Straight leg raise test is negative bilaterally.
+
+Assessment:
+Acute mechanical lower back strain - improving.
+
+Plan:
+1. Continue current conservative management (heat/ice as needed).
+2. Continue daily core stretching exercises.
+3. May take Naproxen 220mg PRN for residual soreness. 
+4. Routine follow-up only if symptoms worsen or fail to resolve in 4 weeks. Return to full normal activities as tolerated.

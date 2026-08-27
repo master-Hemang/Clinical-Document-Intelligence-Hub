@@ -1,0 +1,19 @@
+CLINICAL LABORATORY REPORT
+Patient: Robert Chen (DOB: 11/05/1955)
+Report Date: October 12, 2026
+Ordering Physician: Dr. A. Smith
+
+COMPLETE BLOOD COUNT (CBC) & COMPREHENSIVE METABOLIC PANEL (CMP)
+
+TEST                RESULT      REFERENCE RANGE    FLAG
+---------------------------------------------------------
+White Blood Cell    14.2        4.5 - 11.0 k/uL    HIGH (CRITICAL)
+Hemoglobin          13.5        13.5 - 17.5 g/dL   NORMAL
+Platelets           150         150 - 450 k/uL     NORMAL
+
+Glucose (Fasting)   210         70 - 99 mg/dL      HIGH (CRITICAL)
+HbA1c               9.4%        < 5.7%             HIGH (CRITICAL)
+Creatinine          1.8         0.7 - 1.3 mg/dL    HIGH
+
+Pathologist Note: 
+Significant leukocytosis present, suggesting acute infection or severe inflammation. Hyperglycemia and elevated HbA1c indicate poorly controlled or undiagnosed diabetes. Elevated creatinine suggests potential renal impairment. Immediate clinical correlation and follow-up recommended.

@@ -1,0 +1,24 @@
+PATIENT INTAKE FORM
+Date: October 12, 2026
+Patient Name: Emily Carter
+DOB: 04/22/1990
+Gender: Female
+
+Reason for Visit (Chief Complaint): 
+"I've been feeling unusually tired for the last three weeks, and I occasionally get mild headaches in the afternoon."
+
+Past Medical History: 
+- None significant.
+- No known allergies (NKDA).
+
+Current Medications:
+- Multivitamin (daily)
+- Ibuprofen 400mg (as needed for headaches)
+
+Vitals at Triage:
+- BP: 118/78
+- HR: 72 bpm
+- Temp: 98.4 F
+- SpO2: 99% on room air
+
+Patient Notes: Patient reports working longer hours recently at her desk job. Denies any vision changes, nausea, chest pain, or shortness of breath.
