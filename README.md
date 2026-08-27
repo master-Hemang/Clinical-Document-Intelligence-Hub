@@ -46,28 +46,34 @@ The application will automatically open in your default web browser at http://lo
 
 📊 Example: Input and Output
 * Sample Input (Unstructured Text / PDF)
+
 Radiology Report - 11/05/2026
+
 Patient: Arthur Dent. Clinical Indication: 71-year-old male presenting with productive cough, fever, and hypoxia.
+
 Findings: There is a dense focal consolidation in the right lower lobe with visible air bronchograms. Blunting of the right costophrenic angle, consistent with pleural effusion.
+
 Impression: Right lower lobe consolidation highly suspicious for acute bacterial pneumonia. Recommend urgent clinical correlation and empiric antibiotics.
 
 Sample AI Output (Structured JSON)
 * JSON
 {
   "patient_summary": "71-year-old male presenting with hypoxia, fever, and a productive cough underwent a chest X-ray. Imaging reveals a right lower lobe consolidation and pleural effusion.",
+  
   "key_findings": [
     "Dense focal consolidation in the right lower lobe",
     "Visible air bronchograms",
     "Right-sided pleural effusion",
     "Suspicion for acute bacterial pneumonia"
   ],
+  
   "risk_flag": "High",
+  
   "recommended_next_step": "Urgent clinical correlation and initiation of empiric antibiotic therapy.",
+  
   "confidence_score": 98
 }
 In the UI, this output renders as a red, high-priority alert card, instantly notifying staff that this document requires immediate action.
-
-Developed for the Clinical Document Intelligence Hub challenge.
 
 ### Installation Steps
 1. Clone this repository or download the source code.
