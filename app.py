@@ -7,7 +7,7 @@ import json
 st.set_page_config(page_title="Clinical Intelligence Hub", page_icon="🏥", layout="wide")
 
 # ⚠️ HARDCODE YOUR API KEY HERE ⚠️
-API_KEY = "AQ.Ab8RN6LH4VQd9l1qbpZw7jIuc2I_5DD4eT1sBhp6Hx6hT_3oAQ" 
+API_KEY = "API" 
 
 # --- UI Styling & Sidebar ---
 st.markdown("""
