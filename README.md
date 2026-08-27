@@ -1,5 +1,3 @@
-# Clinical-Document-Intelligence-Hub
-
 # 🏥 Clinical Document Intelligence Hub
 
 ## 📌 Overview
