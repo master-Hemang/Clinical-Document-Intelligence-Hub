@@ -31,8 +31,9 @@ API_KEY = "YOUR_API_KEY_HERE"
 
 Run the application:
 
-Bash
+``bash
 streamlit run app.py
+
 The application will automatically open in your default web browser at http://localhost:8501.
 
 🧠 Assumptions Made
